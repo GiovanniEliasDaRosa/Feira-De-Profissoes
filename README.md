@@ -4,6 +4,8 @@
 
 Este repositório é um projeto que foi criado com o motivo de fazer algo para a feira de profissões da minha escola, como eu faço um curso técnico nós precisavamos fazer um site, e este é o site
 
+[Veja o site aqui](https://giovannieliasdarosa.github.io/Feira-De-Profissoes/)
+
 ---
 
 ## Desenvolvimento
