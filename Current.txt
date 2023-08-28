@@ -1,0 +1,56 @@
+Linguagens de programação para desenvolvimento Front-End
+
+
+As linguagens de programação utilizadas no Front-End são complementares. Cada uma tem funções específicas, e quando combinadas, são capazes de gerar interfaces completas, funcionais e dinâmicas.
+
+Um ponto importante é que, apesar de algumas das ferramentas abaixo serem conhecidas como linguagens de programação graças à forma como são utilizadas, algumas delas não se enquadram totalmente nessa categoria. 
+
+Abaixo, listamos as linguagens mais populares entre os desenvolvedores e explicamos um pouco mais sobre seu funcionamento. 
+
+HTML
+Antes de mais nada, é preciso esclarecer que o HTML (ou Hypertext Markup Language) não é uma linguagem de programação, mas sim, de marcação. Isso significa que ela não segue lógicas ou estruturas de controle, e por isso, não pode criar funcionalidades dinâmicas.
+
+Apesar de não ser suficiente para a criação de um site ou aplicação completa, o HTML pode ser usado junto ao CSS e o Javascript para criar interfaces avançadas.
+
+CSS
+O CSS não é uma linguagem de programação, mas sim de design gráfico. É usado juntamente com o HTML na composição visual das páginas, ou seja, para cores, margens, formas, tipografia, imagens de fundo, entre outros elementos.
+
+Essa ferramenta possui as próprias regras, que são processadas durante a renderização do navegador. Após fazer a leitura do HTML de uma página, ele analisa o CSS e aplica as regras de estilo em cada um dos elementos. 
+
+Javascript
+De acordo com a Stack Overflow Developer Survey de 2020, o Javascript é a linguagem de programação mais utilizada em todo o mundo, e é de suma importância para os desenvolvedores Front-End, pois ela possibilita a criação de interfaces dinâmicas, animadas e interativas.
+
+Trata-se de uma linguagem de alto nível, baseada em objetos e e client-side, ou seja, que roda totalmente no navegador do usuário. Geralmente, é utilizada em conjunto com HTML e CSS para complementar a estrutura e os estilos criados por essas outras ferramentas.
+
+Para os desenvolvedores, é um grande aliado por ser fácil de aprender e não precisar de um compilador, o que o torna compatível com grande parte dos dispositivos.
+
+As melhores faculdades para estudar e se especializar como desenvolvedor front-end
+
+Existem diversas faculdades que oferecem cursos de qualidade na área de desenvolvimento front-end. Algumas das melhores instituições de ensino para estudar e se especializar como desenvolvedor front-end incluem:
+
+Universidade Federal de São Paulo (UNIFESP): A UNIFESP oferece cursos de graduação em Ciência da Computação e Sistemas de Informação, que fornecem uma base sólida para o desenvolvimento front-end. A universidade também possui laboratórios e projetos de pesquisa na área de tecnologia da informação.
+Universidade de São Paulo (USP): A USP é uma das principais instituições de ensino do país e oferece cursos de graduação em Ciência da Computação, Engenharia de Computação e Sistemas de Informação. A universidade conta com professores renomados e possui uma infraestrutura moderna.
+Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio): A PUC-Rio é conhecida pela excelência na área de tecnologia da informação e oferece cursos de graduação em Ciência da Computação, Engenharia de Computação e Sistemas de Informação. A universidade possui laboratórios equipados e incentiva a participação dos alunos em projetos de pesquisa.
+Universidade Estadual de Campinas (UNICAMP): A UNICAMP é uma das principais universidades do país e oferece cursos de graduação em Ciência da Computação e Sistemas de Informação. A instituição possui um corpo docente qualificado e estimula a prática de projetos na área de desenvolvimento front-end.
+
+
+6 cursos gratuitos para carreiras em alta na área de TI
+
+
+1 – DevOps e Agile Culture (FIAP)
+Ideal para quem quer aprender sobre DevOps, metodologias e práticas de desenvolvimento de software, conhecimento da agilidade, UML, entre outros temas. Confira mais aqui.
+
+2 – Segurança Digital – Cybersecurity Essentials (Cisco)
+Com 30 horas de duração, o curso traz os princípios básicos para combater um crime cibernético. Acesse aqui.
+
+3 – Lógica de Programação (SoulCode)
+Neste curso de 6 horas, o aluno irá aprender os fundamentos da lógica, conceitos básicos de programação e estruturas de controle.
+
+4 – Análise de dados no Power BI (Microsoft)
+O curso ensina a executar análises avançadas e trabalhar com visuais de IA no Power BI.
+
+5 – Venha programar em Java (Oracle)
+Ideal para quem quer aprender os fundamentos da programação Java. Aborda variáveis, classes, objetos, loops, arrays e construções de decisão.
+
+6 – Cybersecurity (FIAP)
+Com 60 horas, o curso é dividido em 11 capítulos e, além de fazer uma introdução sobre o tema, também aborda TCP/IP, Engenharia Social, criptografia, entre outros.
